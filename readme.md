@@ -280,3 +280,8 @@ RewriteRule ^ - [F,L]
 ## Disclaimer
 
 This project is intended strictly for educational purposes and authorized security research. Use it only in environments that you own or for which you have explicit permission to test.
+
+## Credits
+- https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC
+- https://github.com/Zer061/CVE-2026-109618
+- https://jackalsyn.com/posts/php-up-2026.html
